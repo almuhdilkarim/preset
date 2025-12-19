@@ -30,3 +30,5 @@ support_multilib=0
 storage_bootsize=2G
 storage_procsize=2G
 storage_homesize=2G  
+
+## PROTOCL CONFIGS
