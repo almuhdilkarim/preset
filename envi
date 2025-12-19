@@ -7,9 +7,9 @@ distro_base=""
 
 
 ## PROD GITREPO
-gitrepo_github="https://github.com/almuhdilkarim/preset.git"
-gitrepo_gitlab=""
-gitrepo_gitloc=""
+gitrepo_preset="https://github.com/almuhdilkarim/preset.git"
+gitrepo_parent="https://github.com/almuhdilkarim/preset.git"
+
 
 ## DISTRO SITES 
 distro_site_main=""
@@ -30,5 +30,3 @@ support_multilib=0
 storage_bootsize=2G
 storage_procsize=2G
 storage_homesize=2G  
-
-## PROTOCL CONFIGS
