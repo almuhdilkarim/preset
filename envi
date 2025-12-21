@@ -1,6 +1,6 @@
 ## DISTRO OVERVIEW 
 distro_name="DefaultOS"
-distro_uniq=default
+distro_uniq=defaultos
 distro_logo=""
 distro_wall=""
 distro_base=""
