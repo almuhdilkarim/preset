@@ -1,28 +1,40 @@
-## DISTRO OVERVIEW 
-preset_name="DefaultOS"
-preset_uniq="defaultos"
-preset_logo=""
-preset_wall=""
-preset_base=""
-preset_repo="https://github.com/almuhdilkarim/preset.git"
-
-
-## DISTRO SITES 
-preset_site_main=""
-preset_site_docs=""
-preset_site_talk=""
-preset_site_bugs=""
-preset_site_priv=""
-
-
-## DEVELOPER INFO
-preset_developer=""
-preset_maintener=""
+## GENERALS INFO 
+preset_distrouid="DefaultOS"
+preset_distrover="desktop"
+preset_developer=()
+preset_maintener=()
 preset_licensing=""
 
 
-## SYSTEM CONFIGS
-preset_multilib=0
-preset_bootsize=2G
-preset_procsize=2G
-preset_homesize=2G  
+## DISTRO ASSETS
+preset_logomain=""
+preset_wallmain=""
+preset_wallboot=""
+
+
+## PROSET ENVIR
+preset_prosetuid="default"
+
+
+## PROTOS ENVIR
+preset_multilibs=true
+preset_protobase="default"
+preset_protoname=""
+
+
+## DISTRO SITES
+preset_repo_base="https://github.com/almuhdilkarim/preset.git" 
+preset_repo_main=""
+preset_repo_home=""
+preset_repo_pack=""
+preset_repo_docs=""
+preset_repo_room=""
+preset_repo_bugs=""
+preset_repo_priv=""
+preset_repo_labs=""
+
+
+## SEMANTIC VERS
+preset_ver_major=0
+preset_ver_minor=0
+preset_ver_patch=0
