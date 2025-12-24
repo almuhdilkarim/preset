@@ -1,5 +1,5 @@
 ## GENERALS INFO 
-preset_spreading="DefaultOS"
+preset_spreading="default black os"
 preset_workloads="desktop"
 preset_developer=()
 preset_maintener=()
