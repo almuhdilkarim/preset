@@ -13,7 +13,7 @@ preset_basedwall=""
 
 
 ## PROSET ENVIR
-preset_prosetuid="default"
+preset_prosetvar="default"
 
 
 ## PROTOS ENVIR
