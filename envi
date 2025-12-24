@@ -7,9 +7,9 @@ preset_licensing=""
 
 
 ## DISTRO ASSETS
-preset_logomain=""
-preset_wallmain=""
-preset_wallboot=""
+preset_basedlogo=""
+preset_basedboot=""
+preset_basedwall=""
 
 
 ## PROSET ENVIR
