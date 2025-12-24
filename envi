@@ -1,6 +1,6 @@
 ## GENERALS INFO 
-preset_distrouid="DefaultOS"
-preset_distrover="desktop"
+preset_spreading="DefaultOS"
+preset_workloads="desktop"
 preset_developer=()
 preset_maintener=()
 preset_licensing=""
