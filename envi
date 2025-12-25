@@ -1,23 +1,25 @@
 ## GENERALS INFO 
 preset_spreading="default"
 preset_workloads="desktop"
-preset_developer=()
-preset_maintener=()
-preset_licensing=""
 preset_multilibs=true
+preset_licensing=""
+preset_launching=""
+
+
+## REMOTE REPOST
+repository_hosts=""
+repository_users=""
 repository_based="https://github.com/almuhdilkarim/preset.git"
 repository_token=""
 
-## DISTRO REPOS
+
+## TESTER INFOS
 repository_alpha="room_lab01"
 repository_betas="room_lab03"
 
 
-## PROSET ENVIR
+## MAKPER ENVIR
 preset_prosetvar="default"
-
-
-## PROTOS ENVIR
 preset_protobase="default"
 preset_protoname=""
 
@@ -31,6 +33,11 @@ preset_repo_room=""
 preset_repo_bugs=""
 preset_repo_priv=""
 preset_repo_labs=""
+
+
+## DEVELOPER INFO
+preset_developer=()
+preset_maintener=()
 
 
 ## SEMANTIC VERS
