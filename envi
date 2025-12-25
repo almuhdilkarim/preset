@@ -1,11 +1,11 @@
 ## GENERALS INFO 
-preset_spreading="KArim OS"
+preset_spreading="default"
 preset_workloads="desktop"
 preset_developer=()
 preset_maintener=()
 preset_licensing=""
 preset_multilibs=true
-repository_based="https://github.com/almuhdilkarim/tester.git"
+repository_based="https://github.com/almuhdilkarim/preset.git"
 
 
 ## DISTRO REPOS
