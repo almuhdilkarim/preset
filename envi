@@ -6,7 +6,7 @@ preset_maintener=()
 preset_licensing=""
 preset_multilibs=true
 repository_based="https://github.com/almuhdilkarim/preset.git"
-
+repository_token=""
 
 ## DISTRO REPOS
 repository_alpha="room_lab01"
