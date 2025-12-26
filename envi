@@ -21,7 +21,7 @@ repository_betas="room_lab03"
 ## MAKPER ENVIR
 preset_prosetvar="default"
 preset_protobase="default"
-preset_protoname=""
+preset_protoname="default"
 
 
 ## DISTRO SITES
