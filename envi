@@ -15,7 +15,7 @@ repository_token=""
 
 ## TESTER INFOS
 repository_alpha="room_lab01"
-repository_betas="room_lab03"
+repository_betas="room_lab02"
 
 
 ## MAKPER ENVIR
