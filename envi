@@ -1,46 +1,99 @@
 ## GENERALS INFO 
-preset_spreading="default"
-preset_workloads="desktop"
-preset_multilibs=true
-preset_licensing=""
-preset_launching=""
+base_name="default"
+base_slug=""
+base_lead=""
+base_vars=""
 
 
-## REMOTE REPOST
-repository_hosts=""
-repository_users=""
-repository_based="https://github.com/almuhdilkarim/preset.git"
-repository_token=""
+
+## spin variable
+spin_name="default"
+spin_slug=""
+spin_lead=""
+spin_vars=""
 
 
-## TESTER INFOS
-repository_alpha="room_lab01"
-repository_betas="room_lab02"
+
+## author variable
+auth_name="Al Muhdil Karim"    
+auth_lead=""    
+auth_slug=""    
+auth_vars="" 
+
+
+
+## system variable
+core_mlib=true
+core_type="desktop"
+core_wall=""
+core_logo=""
+core_luks=""
+core_part=""
+releasing=""
+licensing=""
+
+
+
+## GITREPO
+repo_host=""
+repo_user=""
+repo_name=""
+repo_http="https://github.com/almuhdilkarim/preset.git"
+repo_sshd=""
+repo_keys=""
+repo_toke=""
+
+
+
+## LABREPO
+labs_host=""
+labs_user=""
+labs_name=""
+labs_http="https://github.com/almuhdilkarim/preset.git"
+labs_sshd=""
+labs_keys=""
+labs_toke=""
+
+
+
+## DISKSIZE
+boot_size=""
+proc_size=""
+user_size=""
+data_size=""
+
 
 
 ## MAKPER ENVIR
-preset_prosetvar="default"
-preset_protobase="default"
-preset_protoname="default"
+pros_type="default"
+prot_base="default"
+prot_name="default"
+
 
 
 ## DISTRO SITES
-preset_repo_main=""
-preset_repo_home=""
-preset_repo_pack=""
-preset_repo_docs=""
-preset_repo_room=""
-preset_repo_bugs=""
-preset_repo_priv=""
-preset_repo_labs=""
+site_main=""
+site_home=""
+site_pack=""
+site_docs=""
+site_room=""
+site_bugs=""
+site_priv=""
+site_labs=""
 
 
-## DEVELOPER INFO
-preset_developer=()
-preset_maintener=()
+## PACKER SERVER
+
+
+
+## DEVTEAM INFO
+team_devel=()
+team_maint=()
+team_contr=()
+
 
 
 ## SEMANTIC VERS
-preset_ver_major=0
-preset_ver_minor=0
-preset_ver_patch=0
+ver_major=0
+ver_minor=0
+ver_patch=0

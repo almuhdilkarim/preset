@@ -1,2 +1,2 @@
-# craineos distro preset
+# OSNAME distro preset
 Default operating system boilerplate
