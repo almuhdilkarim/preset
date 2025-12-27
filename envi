@@ -35,24 +35,23 @@ licensing=""
 
 
 ## GITREPO
-repo_host=""
-repo_user=""
-repo_name=""
+repo_host="github.com"
+repo_user="almuhdilkarim"
+repo_name="preset"
 repo_http="https://github.com/almuhdilkarim/preset.git"
-repo_sshd=""
+repo_sshd="git@github.com:almuhdilkarim/preset.git"
 repo_keys=""
-repo_toke=""
+
 
 
 
 ## LABREPO
-labs_host=""
-labs_user=""
-labs_name=""
-labs_http="https://github.com/almuhdilkarim/preset.git"
-labs_sshd=""
+labs_host="github.com"
+labs_user="almuhdilkarim"
+labs_name="tester"
+labs_http="https://github.com/almuhdilkarim/tester.git"
+labs_sshd="git@github.com:almuhdilkarim/tester.git"
 labs_keys=""
-labs_toke=""
 
 
 
@@ -80,9 +79,6 @@ site_room=""
 site_bugs=""
 site_priv=""
 site_labs=""
-
-
-## PACKER SERVER
 
 
 
