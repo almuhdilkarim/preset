@@ -44,7 +44,6 @@ repo_keys=""
 
 
 
-
 ## LABREPO
 labs_host="github.com"
 labs_user="almuhdilkarim"
@@ -60,6 +59,12 @@ boot_size=""
 proc_size=""
 user_size=""
 data_size=""
+
+
+## PACKERS
+pack_kern=""
+pack_wind=""
+pack_audi=""
 
 
 
