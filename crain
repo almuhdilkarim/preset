@@ -2,10 +2,9 @@
 base_name="default"
 spin_name="default"
 auth_name="Al Muhdil Karim"    
-base_repo="https://github.com/almuhdilkarim/preset.git"
 
 
-## pather
+## pathers
 path_main=""
 path_spin=""
 
@@ -19,13 +18,11 @@ releasing=""
 licensing=""
 
 
-
 ## storage
 boot_size=""
 proc_size=""
 user_size=""
 data_size=""
-
 
 
 ## models
@@ -38,13 +35,13 @@ base_nets=""
 
 
 ## proset
-proset_type="default"
+pros_type="default"
 
 
 
 ## protocol
-protos_base=""
-protos_name=""
+prot_base=""
+prot_name=""
 
 
 
@@ -57,17 +54,18 @@ site_room=""
 site_bugs=""
 site_priv=""
 site_labs=""
+site_repo="https://github.com/almuhdilkarim/preset.git"
 
 
 
-## DEVTEAM INFO## repo variable
-team_devel=()
-team_maint=()
-team_contr=()
+## teaminfo
+coreteams=()
+maintener=()
+contribut=()
 
 
 
-## SEMANTIC VERS
+## version
 ver_major=0
 ver_minor=0
 ver_patch=0
