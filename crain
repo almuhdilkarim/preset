@@ -1,51 +1,54 @@
-## GENERALS INFO 
+## general
 base_name="default"
 spin_name="default"
 auth_name="Al Muhdil Karim"    
+repo_path="https://github.com/almuhdilkarim/preset.git"
 
 
-## path variable
+## pather
 path_main=""
 path_spin=""
 
-## repo variable
-repo_http="https://github.com/almuhdilkarim/preset.git"
-repo_sshd="git@github.com:almuhdilkarim/preset.git"
 
-
-## system variable
+## system
 core_mlib=true
 core_type="desktop"
 core_wall=""
 core_logo=""
-core_luks=""
-core_part=""
 releasing=""
 licensing=""
 
 
-## DISKSIZE
+
+## storage
 boot_size=""
 proc_size=""
 user_size=""
 data_size=""
 
 
-## PACKERS
-pack_kern=""
-pack_wind=""
-pack_audi=""
+
+## models
+base_kern=""
+base_wind=""
+base_audi=""
+base_boot=""
+base_nets=""
 
 
 
-## MAKPER ENVIR
+## proset
 proset_type="default"
-protos_base="default"
-protos_name="default"
 
 
 
-## DISTRO SITES
+## protocol
+protos_base=""
+protos_name=""
+
+
+
+## website
 site_main=""
 site_home=""
 site_pack=""
@@ -57,7 +60,7 @@ site_labs=""
 
 
 
-## DEVTEAM INFO
+## DEVTEAM INFO## repo variable
 team_devel=()
 team_maint=()
 team_contr=()

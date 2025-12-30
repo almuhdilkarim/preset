@@ -1,5 +1,5 @@
 
-function raptor_disto_pase() {
+function craine_distro_form() {
     sleep 2 && clear
     echo "Distro module installation"
 }

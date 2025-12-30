@@ -1,5 +1,5 @@
 
-function raptor_disto_main() {
+function craine_distro_main() {
     sleep 2 && clear
     echo "Distro module configuration"
 }
