@@ -1,2 +1,2 @@
-# OSNAME distro preset
-Default operating system boilerplate
+# OSLEAD distro preset
+OSNAME operating system
