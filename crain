@@ -2,7 +2,7 @@
 base_name="default"
 spin_name="default"
 auth_name="Al Muhdil Karim"    
-repo_path="https://github.com/almuhdilkarim/preset.git"
+base_repo="https://github.com/almuhdilkarim/preset.git"
 
 
 ## pather
